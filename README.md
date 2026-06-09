@@ -51,3 +51,10 @@ Aprender conceptos básicos de:
 
 Multithreading
 Comunicación cliente-servidor
+
+## Próximamente
+
+- [ ] Chat entre clientes
+- [ ] Sistema de usuarios
+- [ ] Comandos remotos
+- [ ] Interfaz gráfica
